@@ -4,7 +4,7 @@ Nastepnie sprawdzamy czy grupa nie jest przeciążona.
 
 <h1>Harmonogram</h1>
 <ol>
-    <li>Utworzenie bazy danych</ol>
+    <li>Utworzenie bazy danych</li>
     <li>Napisanie programu który łączy aplikacje z bazą danych</li>
     <li>Napisanie programu który pobiera listę grup z bazy danych.</li>
     <li>Napisanie systemu logowania</li>
