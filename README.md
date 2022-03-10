@@ -3,15 +3,15 @@ Student wybiera  z listy grupę, nastepnie podaje swoje dane osobowe dane są za
 Nastepnie sprawdzamy czy grupa nie jest przeciążona. 
 
 <h1>Harmonogram</h1>
-<li>
-    <ol>Utworzenie bazy danych</ol>
-    <ol>Napisanie programu który łączy aplikacje z bazą danych</ol>
-    <ol>Napisanie programu który pobiera listę grup z bazy danych.</ol>
-    <ol>Napisanie systemu logowania</ol>
-    <ol>Napisanie programu który pobiera dane osobowe od użytkownika i dodaje je do bazy danych.</ol>
-    <ol>Napisanie programu który sprawdza ilość zajętych miejsc i miejsc wolnych w grupie.</ol>
-    <ol>GUI</ol>
-</li>
+<ol>
+    <li>Utworzenie bazy danych</ol>
+    <li>Napisanie programu który łączy aplikacje z bazą danych</li>
+    <li>Napisanie programu który pobiera listę grup z bazy danych.</li>
+    <li>Napisanie systemu logowania</li>
+    <li>Napisanie programu który pobiera dane osobowe od użytkownika i dodaje je do bazy danych.</li>
+    <li>Napisanie programu który sprawdza ilość zajętych miejsc i miejsc wolnych w grupie.</li>
+    <li>GUI</li>
+</ol>
 
 <h1>Deadline</h1>
 <h2>19.05.2022r.</h2>
