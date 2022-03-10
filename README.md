@@ -8,3 +8,4 @@ Nastepnie sprawdzamy czy grupa nie jest przeciążona.
 4.program który pobiera dane osobowe od użytkownika i dodaje je do bazy danych.
 5.Program który sprawdza ilość zajętych miejsc i miejsc wolnych w grupie.
 6.GUI
+Deadline 19.05
