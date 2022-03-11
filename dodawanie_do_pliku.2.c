@@ -3,7 +3,6 @@
 
 int main()
 {
-    char login, haslo;
     char tekst[] = "Hello World!";
 
     FILE *plik;
