@@ -1,12 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-//program wyúwietla liczbe zapisana w pliku
+//program wy≈ìwietla liczbe zapisana w pliku
 
 int main()
 {
-    char login, haslo;
-    char tekst[] = "Hello World!";
-
     FILE *plik;
     if ((plik = fopen ("liczba.txt","r")) ==NULL)
     {
