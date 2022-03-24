@@ -23,3 +23,4 @@ Nastepnie sprawdzamy czy grupa nie jest przeciążona.
 5.Program który sprawdza ilość zajętych miejsc i miejsc wolnych w grupie. <br>
 6.GUI <br>
 Deadline 19.05 <br>
+Cunit check<br> 
