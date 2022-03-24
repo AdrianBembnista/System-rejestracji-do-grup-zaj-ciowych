@@ -1,7 +1,7 @@
-
 #include <stdio.h>
 
-//Prawid³owe haslo przyjmuje wartosc 7.
+
+
 
 int main()
 {
@@ -20,15 +20,14 @@ int main()
     printf("Pobrany login: %s\n",log);
     fclose(plik);
 
+
     if ((plik = fopen ("haslo.txt","r")) ==NULL)
     {
         printf("Cos poszlo nie tak");
         exit(1);
     }
-    fscanf(plik,"%s",&log);
-    printf("Pobrany login: %s\n",log);
-    fclose(plik);
-
+    fscanf(plik,"%s",&pass);
+    printf("Pobrany haslo: %s\n",pass);
 
 
     printf("Login: ");
@@ -36,14 +35,14 @@ int main()
     printf("Haslo: ");
     scanf("%s",haslo);
 
-    for(int i=1;i<=10;i++)
+    for(int i=0;i<=10;i++)
     {
         if (log[i]==login[i])
         {
             l++;
         }
     }
-    for(int i=1;i<=10;i++)
+    for(int i=0;i<=10;i++)
     {
         if (haslo[i]==pass[i])
         {
@@ -54,7 +53,7 @@ int main()
     printf("L wynosi: %d\n",l);
     printf("h wynosi: %d\n",h);
 
-    if((l==9)&&(h==7))
+    if((l==10)&&(h==9))
     {
         printf("Zalogowano");
     }
