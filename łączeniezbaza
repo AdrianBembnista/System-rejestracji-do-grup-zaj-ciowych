@@ -15,8 +15,12 @@ MYSQL conn;
 conn =mysql_init(NULL);
 if(!(mysql_real_connect(conn, host, user, pass ,dbname, port, unix_socket, flag)))
 {
-fprint
+fprint(stderr, "\nError: %s [%d]\n", mysql_error(conn), mysql_errno(conn));
+exit(1);
 
 
 
-}}
+}
+printf("Polaczenie powiodlo sie !\n\n");
+return EXIT_SUCCESS;
+}
