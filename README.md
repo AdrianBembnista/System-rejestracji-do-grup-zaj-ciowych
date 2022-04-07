@@ -24,3 +24,9 @@ Nastepnie sprawdzamy czy grupa nie jest przeciążona.
 6.GUI <br>
 Deadline 19.05 <br>
 Cunit check<br> 
+
+1.Po zalogowaniu się żeby był wybór przedmiotu a później wybót grupy w tym przedmiocie <br>
+2.Widoczna jest ilość osób i limit np.16?<br> 
+3.Na koniec po kliknięciu w osobe jest widoczne w jakich gruach jest.
+4. Zrobić Ci i testy jednostkowe. Robic crush testy. 
+5. 
