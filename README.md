@@ -1,3 +1,6 @@
+<h1>Uporządkować pliki na Gitcie!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
+
+
 <h1>Założenia</h1>
 Student wybiera  z listy grupę, nastepnie podaje swoje dane osobowe dane są zapisywane w bazie danych.
 Nastepnie sprawdzamy czy grupa nie jest przeciążona. 
@@ -24,9 +27,14 @@ Nastepnie sprawdzamy czy grupa nie jest przeciążona.
 6.GUI <br>
 Deadline 19.05 <br>
 Cunit check<br> 
+ 
 
-1.Po zalogowaniu się żeby był wybór przedmiotu a później wybót grupy w tym przedmiocie <br>
-2.Widoczna jest ilość osób i limit np.16?<br> 
-3.Na koniec po kliknięciu w osobe jest widoczne w jakich gruach jest.
+1.Po zalogowaniu się żeby był wybór przedmiotu a później wybór grupy w tym przedmiocie <br>
+2.Po kliknięciu w przedmiot widać ile jest grup i ile miejsc w danej grupie zostało<br> 
+3.Na koniec po kliknięciu w osobe jest widoczne w jakich grupach jest.
 4. Zrobić Ci i testy jednostkowe. Robic crush testy. 
-5. 
+
+Jeżeli chodzi o testy to: osobny test do rejestracji, osobny test po przypisaniu do grupy.
+Spróbować przeciążyc test zrobić grupę testową kombinować z funkcjonalnością 
+CI ma dzialać!!!!!!!!!!!!!
+
